@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>OpenAI Chatbot</title>
+	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+	<link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre.min.css">
+	<link rel="stylesheet" href="style.css">
+	<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+	<script src="script.js"></script>
+</head>
+<body>
+	<div class="container">
+		<div class="hero">
+			<h1 class="title">OpenAI Chatbot</h1>
+			<p class="subtitle">Type your question and get an answer from our AI</p>
+			<div class="search-container">
+				<input type="text" id="search-input" placeholder="Ask me anything">
+				<button id="search-btn" class="btn btn-primary">Search</button>
+			</div>
+			<div id="chatbot" class="chatbot">
+				<div id="chatbot-messages" class="chatbot-messages"></div>
+				<div class="chatbot-input">
+					<input type="text" id="chatbot-input-text" placeholder="Type your follow-up question">
+					<button id="chatbot-input-btn" class="btn btn-primary">Send</button>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
