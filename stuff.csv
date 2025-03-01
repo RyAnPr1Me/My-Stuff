@@ -1,10 +1,9 @@
-symbol,shares,price,value,sector,country,type
-SPAXX**, , , ,Money Market,US,Fund
-HII, , , ,Industrials,US,Stock
-KO,1.023,71.21,72.85,Consumer Staples,US,Stock
-COM,0.011,60.25,0.66,Unknown,US,Stock
-LINE, ,0.94, ,Technology,US,Stock
-LLY, , , ,Healthcare,US,Stock
-SMCI, , , ,Technology,US,Stock
-VOO, , , ,ETF,US,ETF
-FXAIX, , , ,Index,US,Fund
+symbol,shares,price,type
+SPAXX,,"$5.80",Cash
+HII,0.102,"$175.58",Cash
+KO,1.023,"$71.21",Cash
+LINE,0.011,"$60.25",Cash
+LLY,0.023,"$920.63",Cash
+SMCI,0.185,"$41.46",Cash
+VOO,0.02,"$546.33",Cash
+FXAIX,0.981,"$207.13",Cash
