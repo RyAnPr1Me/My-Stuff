@@ -1,0 +1,10 @@
+symbol,shares,price,sector,country,type
+SPAXX,,,Money Market,US,Fund
+HII,,,Industrials,US,Stock
+KO,1.023,71.35,Consumer Staples,US,Stock
+COM,0.011,53.88,Unknown,US,Stock
+LINE,,85.4,Technology,US,Stock
+LLY,,,Healthcare,US,Stock
+SMCI,,,Technology,US,Stock
+VOO,,,ETF,US,ETF
+FXAIX,,,Index,US,Fund
