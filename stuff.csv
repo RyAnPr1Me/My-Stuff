@@ -1,9 +1,9 @@
-symbol,shares,price,type
-SPAXX,,"$5.80",Cash
-HII,0.102,"$175.58",Cash
-KO,1.023,"$71.21",Cash
-LINE,0.011,"$60.25",Cash
-LLY,0.023,"$920.63",Cash
-SMCI,0.185,"$41.46",Cash
-VOO,0.02,"$546.33",Cash
-FXAIX,0.981,"$207.13",Cash
+symbol,shares,price,sector,country,type
+SPAXX,,5.80,Financials,US,Fund
+HII,0.102,175.58,Industrials,US,Stock
+KO,1.023,71.21,Consumer Staples,US,Stock
+LINE,0.011,60.25,Industrials,US,Stock
+LLY,0.023,920.63,Healthcare,US,Stock
+SMCI,0.185,41.46,Technology,US,Stock
+VOO,0.02,546.33,Financials,US,Fund
+FXAIX,0.981,207.13,Financials,US,Fund
