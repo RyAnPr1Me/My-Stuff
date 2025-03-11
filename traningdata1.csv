@@ -1,81 +1,20 @@
 "input","output"
-"Historical Stock Data (Source: Yahoo Finance) | Date: 2023-10-03; Stock: AAPL; Open: $172.03; High: $174.50; Low: $171.50; Close: $174.15; Volume: 65000000; P/E Ratio: 29.5; EPS: 6.00
-News Article (Source: Reuters): 'Apple announces Q3 earnings beat estimates, raising guidance for Q4.'
-Sentiment Score: 0.70
-Economic Indicators (Fed, BLS): Fed Funds Rate: 5.25%; CPI: 3.7%; GDP Growth: 2.1%
-Event Flags: Earnings report on 2023-10-02; Product launch on 2023-10-04","Increase"
-"Historical Stock Data (Source: Yahoo Finance) | Date: 2023-10-03; Stock: MSFT; Open: $320.50; High: $324.00; Low: $319.00; Close: $322.75; Volume: 28000000; P/E Ratio: 35.0; EPS: 9.20
-News Article (Source: Bloomberg): 'Microsoft confirms expansion of cloud services in a strategic move.'
-Sentiment Score: 0.75
-Economic Indicators: Fed Funds Rate: 5.25%; CPI: 3.7%; GDP Growth: 2.1%
-Event Flags: Earnings report on 2023-10-01; Partnership announcement on 2023-10-03","Increase"
-"Historical Stock Data (Source: Yahoo Finance) | Date: 2023-10-03; Stock: TSLA; Open: $255.00; High: $260.00; Low: $250.00; Close: $252.00; Volume: 22000000; P/E Ratio: 110.0; EPS: 2.50
-News Article (Source: Reuters): 'Tesla faces production slowdown amid supply chain issues.'
-Sentiment Score: 0.40
-Economic Indicators: Fed Funds Rate: 5.25%; CPI: 3.7%; GDP Growth: 2.1%
-Event Flags: Regulatory investigation on 2023-10-02","Decrease"
-"Historical Stock Data (Source: Yahoo Finance) | Date: 2023-10-03; Stock: AMZN; Open: $133.45; High: $135.90; Low: $132.20; Close: $135.20; Volume: 28500000; P/E Ratio: 60.2; EPS: 2.45
-News Article (Source: Bloomberg): 'Amazon posts stronger-than-expected cloud services growth.'
-Sentiment Score: 0.68
-Economic Indicators: Fed Funds Rate: 5.25%; CPI: 3.7%; GDP Growth: 2.1%
-Event Flags: Earnings report on 2023-10-02; CEO commentary","Increase"
-"Historical Stock Data (Source: Yahoo Finance) | Date: 2023-10-03; Stock: GOOGL; Open: $126.50; High: $129.00; Low: $125.80; Close: $128.75; Volume: 18000000; P/E Ratio: 28.0; EPS: 5.15
-News Article (Source: Reuters): 'Alphabet unveils new AI-driven advertising solutions.'
-Sentiment Score: 0.80
-Economic Indicators: Fed Funds Rate: 5.25%; CPI: 3.7%; GDP Growth: 2.1%
-Event Flags: Product launch on 2023-10-03","Increase"
-"Historical Stock Data (Source: Yahoo Finance) | Date: 2023-10-03; Stock: NVDA; Open: $470.00; High: $490.00; Low: $465.00; Close: $485.75; Volume: 12000000; P/E Ratio: 48.0; EPS: 3.20
-News Article (Source: Bloomberg): 'Nvidia reports record quarterly revenues amid surging AI demand.'
-Sentiment Score: 0.85
-Economic Indicators: Fed Funds Rate: 5.25%; CPI: 3.7%; GDP Growth: 2.1%
-Event Flags: Earnings release on 2023-10-02; AI chip announcement on 2023-10-03","Increase"
-"Historical Stock Data (Source: Yahoo Finance) | Date: 2023-10-03; Stock: META; Open: $210.00; High: $215.00; Low: $208.50; Close: $212.00; Volume: 15000000; P/E Ratio: 25.0; EPS: 8.00
-News Article (Source: Reuters): 'Meta sees rising user engagement as ad revenue exceeds expectations.'
-Sentiment Score: 0.75
-Economic Indicators: Fed Funds Rate: 5.25%; CPI: 3.7%; GDP Growth: 2.1%
-Event Flags: Quarterly report on 2023-10-02; New product demo on 2023-10-04","Increase"
-"Historical Stock Data (Source: Yahoo Finance) | Date: 2023-10-03; Stock: JPM; Open: $140.00; High: $142.50; Low: $139.50; Close: $141.80; Volume: 10000000; P/E Ratio: 12.0; EPS: 10.50
-News Article (Source: Bloomberg): 'JPMorgan reports steady growth amid an improved lending environment.'
-Sentiment Score: 0.65
-Economic Indicators: Fed Funds Rate: 5.25%; CPI: 3.7%; GDP Growth: 2.1%
-Event Flags: Earnings report on 2023-10-02; Interest rate commentary","Increase"
-"Historical Stock Data (Source: Yahoo Finance) | Date: 2023-10-03; Stock: NFLX; Open: $515.00; High: $525.00; Low: $510.00; Close: $520.00; Volume: 8000000; P/E Ratio: 45.0; EPS: 11.00
-News Article (Source: Reuters): 'Netflix expands global subscriber base with new content deals.'
-Sentiment Score: 0.70
-Economic Indicators: Fed Funds Rate: 5.25%; CPI: 3.7%; GDP Growth: 2.1%
-Event Flags: Subscriber growth report on 2023-10-02; New series announcement","Increase"
-"Historical Stock Data (Source: Yahoo Finance) | Date: 2023-10-03; Stock: IBM; Open: $130.00; High: $133.00; Low: $129.50; Close: $132.00; Volume: 7000000; P/E Ratio: 14.0; EPS: 9.00
-News Article (Source: Bloomberg): 'IBM unveils breakthrough in quantum computing research.'
-Sentiment Score: 0.80
-Economic Indicators: Fed Funds Rate: 5.25%; CPI: 3.7%; GDP Growth: 2.1%
-Event Flags: Research update on 2023-10-01; Earnings forecast revision","Increase"
-"Historical Stock Data (Source: Yahoo Finance) | Date: 2023-10-03; Stock: ORCL; Open: $85.00; High: $87.00; Low: $84.50; Close: $86.50; Volume: 9000000; P/E Ratio: 20.0; EPS: 4.50
-News Article (Source: Reuters): 'Oracle strengthens cloud infrastructure, boosting enterprise confidence.'
-Sentiment Score: 0.78
-Economic Indicators: Fed Funds Rate: 5.25%; CPI: 3.7%; GDP Growth: 2.1%
-Event Flags: Cloud strategy update on 2023-10-02; Analyst upgrade","Increase"
-"Historical Stock Data (Source: Yahoo Finance) | Date: 2023-10-03; Stock: INTC; Open: $52.00; High: $54.00; Low: $51.50; Close: $53.50; Volume: 15500000; P/E Ratio: 12.5; EPS: 2.80
-News Article (Source: Bloomberg): 'Intel faces chip production challenges amid global shortages.'
-Sentiment Score: 0.50
-Economic Indicators: Fed Funds Rate: 5.25%; CPI: 3.7%; GDP Growth: 2.1%
-Event Flags: Supply chain review on 2023-10-02; Management commentary","Decrease"
-"Historical Stock Data (Source: Yahoo Finance) | Date: 2023-10-03; Stock: AMD; Open: $110.00; High: $113.00; Low: $109.50; Close: $112.00; Volume: 11000000; P/E Ratio: 35.0; EPS: 3.50
-News Article (Source: Reuters): 'AMD posts strong earnings driven by high demand for processors.'
-Sentiment Score: 0.82
-Economic Indicators: Fed Funds Rate: 5.25%; CPI: 3.7%; GDP Growth: 2.1%
-Event Flags: Earnings release on 2023-10-02; Product launch announcement","Increase"
-"Historical Stock Data (Source: Yahoo Finance) | Date: 2023-10-03; Stock: DIS; Open: $95.00; High: $97.50; Low: $94.50; Close: $96.80; Volume: 12500000; P/E Ratio: 30.0; EPS: 3.20
-News Article (Source: Bloomberg): 'Disney reports robust theme park attendance and streaming growth.'
-Sentiment Score: 0.77
-Economic Indicators: Fed Funds Rate: 5.25%; CPI: 3.7%; GDP Growth: 2.1%
-Event Flags: Quarterly report on 2023-10-02; New movie release","Increase"
-"Historical Stock Data (Source: Yahoo Finance) | Date: 2023-10-03; Stock: BA; Open: $210.00; High: $215.00; Low: $209.00; Close: $212.50; Volume: 8500000; P/E Ratio: 16.0; EPS: 8.50
-News Article (Source: Reuters): 'Boeing sees increase in aircraft orders despite supply chain disruptions.'
-Sentiment Score: 0.68
-Economic Indicators: Fed Funds Rate: 5.25%; CPI: 3.7%; GDP Growth: 2.1%
-Event Flags: Earnings report on 2023-10-02; New aircraft delivery schedule","Increase"
-"Historical Stock Data (Source: Yahoo Finance) | Date: 2023-10-03; Stock: KO; Open: $62.00; High: $63.00; Low: $61.50; Close: $62.80; Volume: 14000000; P/E Ratio: 24.0; EPS: 2.90
-News Article (Source: Bloomberg): 'Coca-Cola reports stable performance with a slight uptick in global sales.'
-Sentiment Score: 0.70
-Economic Indicators: Fed Funds Rate: 5.25%; CPI: 3.7%; GDP Growth: 2.1%
-Even
+"Historical Stock Data (Source: Yahoo Finance) | Date: 2023-10-03; Stock: AAPL; Open: $172.03; High: $174.50; Low: $171.50; Close: $174.15; Volume: 65000000; P/E Ratio: 29.5; EPS: 6.00 | News Article (Source: Reuters): 'Apple announces Q3 earnings beat estimates, raising guidance for Q4.' | Sentiment Score: 0.70 | Economic Indicators: Fed Funds Rate: 5.25%; CPI: 3.7%; GDP Growth: 2.1% | Event Flags: Earnings report on 2023-10-02; Product launch on 2023-10-04","Increase"
+"Historical Stock Data (Source: Yahoo Finance) | Date: 2023-10-03; Stock: MSFT; Open: $320.50; High: $324.00; Low: $319.00; Close: $322.75; Volume: 28000000; P/E Ratio: 35.0; EPS: 9.20 | News Article (Source: Bloomberg): 'Microsoft confirms expansion of cloud services in a strategic move.' | Sentiment Score: 0.75 | Economic Indicators: Fed Funds Rate: 5.25%; CPI: 3.7%; GDP Growth: 2.1% | Event Flags: Earnings report on 2023-10-01; Partnership announcement on 2023-10-03","Increase"
+"Historical Stock Data (Source: Yahoo Finance) | Date: 2023-10-03; Stock: TSLA; Open: $255.00; High: $260.00; Low: $250.00; Close: $252.00; Volume: 22000000; P/E Ratio: 110.0; EPS: 2.50 | News Article (Source: Reuters): 'Tesla faces production slowdown amid supply chain issues.' | Sentiment Score: 0.40 | Economic Indicators: Fed Funds Rate: 5.25%; CPI: 3.7%; GDP Growth: 2.1% | Event Flags: Regulatory investigation on 2023-10-02","Decrease"
+"Historical Stock Data (Source: Yahoo Finance) | Date: 2023-10-03; Stock: AMZN; Open: $133.45; High: $135.90; Low: $132.20; Close: $135.20; Volume: 28500000; P/E Ratio: 60.2; EPS: 2.45 | News Article (Source: Bloomberg): 'Amazon posts stronger-than-expected cloud services growth.' | Sentiment Score: 0.68 | Economic Indicators: Fed Funds Rate: 5.25%; CPI: 3.7%; GDP Growth: 2.1% | Event Flags: Earnings report on 2023-10-02; CEO commentary","Increase"
+"Historical Stock Data (Source: Yahoo Finance) | Date: 2023-10-03; Stock: GOOGL; Open: $126.50; High: $129.00; Low: $125.80; Close: $128.75; Volume: 18000000; P/E Ratio: 28.0; EPS: 5.15 | News Article (Source: Reuters): 'Alphabet unveils new AI-driven advertising solutions.' | Sentiment Score: 0.80 | Economic Indicators: Fed Funds Rate: 5.25%; CPI: 3.7%; GDP Growth: 2.1% | Event Flags: Product launch on 2023-10-03","Increase"
+"Historical Stock Data (Source: Yahoo Finance) | Date: 2023-10-03; Stock: NVDA; Open: $470.00; High: $490.00; Low: $465.00; Close: $485.75; Volume: 12000000; P/E Ratio: 48.0; EPS: 3.20 | News Article (Source: Bloomberg): 'Nvidia reports record quarterly revenues amid surging AI demand.' | Sentiment Score: 0.85 | Economic Indicators: Fed Funds Rate: 5.25%; CPI: 3.7%; GDP Growth: 2.1% | Event Flags: Earnings release on 2023-10-02; AI chip announcement on 2023-10-03","Increase"
+"Historical Stock Data (Source: Yahoo Finance) | Date: 2023-10-03; Stock: META; Open: $210.00; High: $215.00; Low: $208.50; Close: $212.00; Volume: 15000000; P/E Ratio: 25.0; EPS: 8.00 | News Article (Source: Reuters): 'Meta sees rising user engagement as ad revenue exceeds expectations.' | Sentiment Score: 0.75 | Economic Indicators: Fed Funds Rate: 5.25%; CPI: 3.7%; GDP Growth: 2.1% | Event Flags: Quarterly report on 2023-10-02; New product demo on 2023-10-04","Increase"
+"Historical Stock Data (Source: Yahoo Finance) | Date: 2023-10-03; Stock: JPM; Open: $140.00; High: $142.50; Low: $139.50; Close: $141.80; Volume: 10000000; P/E Ratio: 12.0; EPS: 10.50 | News Article (Source: Bloomberg): 'JPMorgan reports steady growth amid an improved lending environment.' | Sentiment Score: 0.65 | Economic Indicators: Fed Funds Rate: 5.25%; CPI: 3.7%; GDP Growth: 2.1% | Event Flags: Earnings report on 2023-10-02; Interest rate commentary","Increase"
+"Historical Stock Data (Source: Yahoo Finance) | Date: 2023-10-03; Stock: NFLX; Open: $515.00; High: $525.00; Low: $510.00; Close: $520.00; Volume: 8000000; P/E Ratio: 45.0; EPS: 11.00 | News Article (Source: Reuters): 'Netflix expands global subscriber base with new content deals.' | Sentiment Score: 0.70 | Economic Indicators: Fed Funds Rate: 5.25%; CPI: 3.7%; GDP Growth: 2.1% | Event Flags: Subscriber growth report on 2023-10-02; New series announcement","Increase"
+"Historical Stock Data (Source: Yahoo Finance) | Date: 2023-10-03; Stock: IBM; Open: $130.00; High: $133.00; Low: $129.50; Close: $132.00; Volume: 7000000; P/E Ratio: 14.0; EPS: 9.00 | News Article (Source: Bloomberg): 'IBM unveils breakthrough in quantum computing research.' | Sentiment Score: 0.80 | Economic Indicators: Fed Funds Rate: 5.25%; CPI: 3.7%; GDP Growth: 2.1% | Event Flags: Research update on 2023-10-01; Earnings forecast revision","Increase"
+"Historical Stock Data (Source: Yahoo Finance) | Date: 2023-10-03; Stock: ORCL; Open: $85.00; High: $87.00; Low: $84.50; Close: $86.50; Volume: 9000000; P/E Ratio: 20.0; EPS: 4.50 | News Article (Source: Reuters): 'Oracle strengthens cloud infrastructure, boosting enterprise confidence.' | Sentiment Score: 0.78 | Economic Indicators: Fed Funds Rate: 5.25%; CPI: 3.7%; GDP Growth: 2.1% | Event Flags: Cloud strategy update on 2023-10-02; Analyst upgrade","Increase"
+"Historical Stock Data (Source: Yahoo Finance) | Date: 2023-10-03; Stock: INTC; Open: $52.00; High: $54.00; Low: $51.50; Close: $53.50; Volume: 15500000; P/E Ratio: 12.5; EPS: 2.80 | News Article (Source: Bloomberg): 'Intel faces chip production challenges amid global shortages.' | Sentiment Score: 0.50 | Economic Indicators: Fed Funds Rate: 5.25%; CPI: 3.7%; GDP Growth: 2.1% | Event Flags: Supply chain review on 2023-10-02; Management commentary","Decrease"
+"Historical Stock Data (Source: Yahoo Finance) | Date: 2023-10-03; Stock: AMD; Open: $110.00; High: $113.00; Low: $109.50; Close: $112.00; Volume: 11000000; P/E Ratio: 35.0; EPS: 3.50 | News Article (Source: Reuters): 'AMD posts strong earnings driven by high demand for processors.' | Sentiment Score: 0.82 | Economic Indicators: Fed Funds Rate: 5.25%; CPI: 3.7%; GDP Growth: 2.1% | Event Flags: Earnings release on 2023-10-02; Product launch announcement","Increase"
+"Historical Stock Data (Source: Yahoo Finance) | Date: 2023-10-03; Stock: DIS; Open: $95.00; High: $97.50; Low: $94.50; Close: $96.80; Volume: 12500000; P/E Ratio: 30.0; EPS: 3.20 | News Article (Source: Bloomberg): 'Disney reports robust theme park attendance and streaming growth.' | Sentiment Score: 0.77 | Economic Indicators: Fed Funds Rate: 5.25%; CPI: 3.7%; GDP Growth: 2.1% | Event Flags: Quarterly report on 2023-10-02; New movie release","Increase"
+"Historical Stock Data (Source: Yahoo Finance) | Date: 2023-10-03; Stock: BA; Open: $210.00; High: $215.00; Low: $209.00; Close: $212.50; Volume: 8500000; P/E Ratio: 16.0; EPS: 8.50 | News Article (Source: Reuters): 'Boeing sees increase in aircraft orders despite supply chain disruptions.' | Sentiment Score: 0.68 | Economic Indicators: Fed Funds Rate: 5.25%; CPI: 3.7%; GDP Growth: 2.1% | Event Flags: Earnings report on 2023-10-02; New aircraft delivery schedule","Increase"
+"Historical Stock Data (Source: Yahoo Finance) | Date: 2023-10-03; Stock: KO; Open: $62.00; High: $63.00; Low: $61.50; Close: $62.80; Volume: 14000000; P/E Ratio: 24.0; EPS: 2.90 | News Article (Source: Bloomberg): 'Coca-Cola reports stable performance with a slight uptick in global sales.' | Sentiment Score: 0.70 | Economic Indicators: Fed Funds Rate: 5.25%; CPI: 3.7%; GDP Growth: 2.1% | Event Flags: Quarterly sales report on 2023-10-02; Dividend announcement","Increase"
+"Historical Stock Data (Source: Yahoo Finance) | Date: 2023-10-03; Stock: PFE; Open: $42.00; High: $43.50; Low: $41.80; Close: $43.00; Volume: 20000000; P/E Ratio: 18.0; EPS: 2.50 | News Article (Source: Reuters): 'Pfizer advances new drug candidate with promising clinical trial results.' | Sentiment Score: 0.75 | Economic Indicators: Fed Funds Rate: 5.25%; CPI: 3.7%; GDP Growth: 2.1% | Event Flags: Clinical trial update on 2023-10-02; Regulatory submission pending","Increase"
+"Historical Stock Data (Source: Yahoo Finance) | Date: 2023-10-03; Stock: MRK; Open: $85.00; High: $86.50; Low: $84.50; Close: $86.00; Volume: 16000000; P/E Ratio: 20.0; EPS: 4.20 | News Article (Source: Bloomberg): 'Merck reports steady revenue growth driven by a strong pharmaceutical pipeline.' | Sentiment Score: 0.73 | Economic Indicators: Fed Funds Rate: 5.25%; CPI: 3.7%; GDP Growth: 2.1% | Event Flags: Earnings report on 2023-10-02; New product approval","Increase"
+"Historical Stock Data (Source: Yahoo Finance) | Date: 2023-10-03; Stock: WMT; Open: $140.00; High: $142.00; Low: $139.00; Close: $141.00; Volume: 18000000; P/E Ratio: 22.0; EPS: 5.50 | News Article (Source: Reuters): 'Walmart sees robust holiday season forecasts and strong sales growth.' | Sentiment Score: 0.78 | Economic Indicators: Fed Funds Rate: 5.25%; CPI: 
